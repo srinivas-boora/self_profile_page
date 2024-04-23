@@ -1,6 +1,6 @@
 # Basic_self_profile. ?// NOTE(:- this is just  a HTML&CSS desinged profile :) ?
 
--> This profile introduce's about mean and my technical knowledge in the frontend side.
+-> This profile introduce's about ME and my technical knowledge in the frontend side.
 -> I declare the how mush i know the HTML>CSS>JAVASCRIPT. and also other technologies like (PYTHON,MY_SQL).
 -> the profile will show's about my passion in the frontend web developer.
 # HTML?
